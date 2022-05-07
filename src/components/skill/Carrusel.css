@@ -1,0 +1,40 @@
+.skill-container {
+  top:0; 
+  height: 60vh;
+  width: 100%;
+  background-color: #fff;
+  
+}
+
+.skill-container>h1{
+  padding:40px 0px 0px 90px; 
+  font-size:50px; 
+  color:#000; 
+
+}
+
+.item{
+  min-height:20rem;
+  min-width:16rem;
+  padding:60px;
+}
+
+.item img{ 
+  width:100%;
+  height:100%;
+  pointer-events: none;
+
+}
+
+.inner-carrusel{
+  display:flex;  
+  min-width: 50px;
+  min-height: 50px;
+  
+}
+
+.carrusel{
+  padding-top: 150px;
+  cursor: grab; 
+  overflow: hidden;
+}
