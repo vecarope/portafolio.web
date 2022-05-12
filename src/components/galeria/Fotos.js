@@ -13,14 +13,16 @@ return (
   <div className="grid-item" style={{backgroundImage:`url("/fotos/ave3.jpeg")`}}></div>
   <div className="grid-item" style={{backgroundImage:`url("/fotos/congi4.jpeg")`}}></div>
   <div className="grid-item" style={{backgroundImage:`url("/fotos/puq3.jpeg")`}}></div>
-  <div className="grid-item" style={{backgroundImage:`url("/fotos/puq6.jpeg")`}}></div>
+  <div className="grid-item" style={{backgroundImage:`url("/fotos/osorno.jpeg")`}}></div>
   <div className="grid-item" style={{backgroundImage:`url("/fotos/soli.jpeg")`}}></div>
   <div className="grid-item" style={{backgroundImage:`url("/fotos/tree.jpeg")`}}></div>
   <div className="grid-item" style={{backgroundImage:`url("/fotos/puq4.jpeg")`}}></div>
+  <div className="grid-item" style={{backgroundImage:`url("/fotos/puq9.jpeg")`}}></div>
+  <div className="grid-item" style={{backgroundImage:`url("/fotos/ave7.jpeg")`}}></div>
+  <div className="grid-item" style={{backgroundImage:`url("/fotos/congi5.jpeg")`}}></div>
   <div className="grid-item" style={{backgroundImage:`url("/fotos/puq8.jpeg")`}}></div>
-  <div className="grid-item" style={{backgroundImage:`url("/fotos/tree.jpeg")`}}></div>
-  <div className="grid-item" style={{backgroundImage:`url("/fotos/puq4.jpeg")`}}></div>
-  <div className="grid-item" style={{backgroundImage:`url("/fotos/puq8.jpeg")`}}></div>
+  <div className="grid-item" style={{backgroundImage:`url("/fotos/puq7.jpeg")`}}></div>
+  <div className="grid-item" style={{backgroundImage:`url("/fotos/soli3.jpeg")`}}></div>
 </div>
 
 ); 

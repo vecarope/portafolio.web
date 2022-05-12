@@ -3,8 +3,6 @@ import "./App.css";
 import Cover from "./components/cover/Cover";
 import Navbar from "./components/navbar/Navbar";
 import About from "./components/about/About";
-import Slider from "./components/slider/Slider";
-import Info from "./components/info/Info";
 import Footer from "./components/footer/Footer";
 import Galeria from "./components/galeria/Galeria"; 
 import Skill from "./components/skill/Skill"; 
@@ -29,10 +27,8 @@ function App() {
       <About />
       <Texto />
       <Skill />
-      <Slider />
       <Portafolio/>
       <Galeria />
-      <Info />
       <Footer />
     </div>
   );

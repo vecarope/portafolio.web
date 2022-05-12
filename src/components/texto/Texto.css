@@ -45,24 +45,21 @@
     padding: 40px 20px 50px 20px;
   }
 
-  .texto> h3 {
-    font-size: 20px;
-    text-align: center;
+  .texto-img, .texto>h3{
+  display:none;
   }
 
-  .texto-img {
-    width: 100%;
-    margin-bottom: 50px;
-  }
 
-  .texto-img > img {
-    width: 100%;
-  }
 }
 
 
 @media only screen and (max-width:880px){
-  .texto-img {
+  .texto-img , .texto>h3{
   display:none; 
+  }
+  .texto.p{
+    width: 90%;
+    margin: 0 auto;
+    padding: 40px 20px 50px 20px;
   }
 }

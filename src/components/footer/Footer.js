@@ -1,10 +1,10 @@
-import React from "react";
+import {motion} from "framer-motion";
 import "./Footer.css";
 
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="footer-info">
+      <div  className="footer-info">
         <h1>VERONICA CARO</h1>
         <p>Front-End Developer</p>
       </div>

@@ -9,8 +9,13 @@
         align-items: center;
 }
 
+.porta-container>h1{
+        font-size:90px; 
+}
+
 @media only screen and (max-width:880px){
         svg {
         display:none; 
         }
 }
+
